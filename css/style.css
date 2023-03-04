@@ -1,0 +1,18 @@
+
+
+.paragraph {
+    font-size: 20px;
+    text-align: right;
+}
+
+.breadcrumb a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+}
+
+.breadcrumb-bg {
+    background-color: #eee;
+    padding:12px  0 10px 12px;
+}
